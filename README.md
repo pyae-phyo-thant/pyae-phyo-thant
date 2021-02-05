@@ -22,10 +22,12 @@
 ![VUE](https://img.shields.io/badge/-VUE%20js-000000?style=flat&logo=Vue.js)
 ![NUXT](https://img.shields.io/badge/-Nuxt-000000?style=flat&logo=Nuxt.js)
 ![FLUTTER](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter)
+![Material-ui](https://img.shields.io/badge/-materialUi-000000?style=flat&logo=material-ui)
+![Material-ui](https://img.shields.io/badge/-TailwindCss-000000?style=flat&logo=tailwind-css)
 
 #### Library I have used
 
-![React](https://img.shields.io/badge/-REACT%20js-000000?style=flat&logo=react.js)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
 
 ##### Some of the technologies I have worked with
 
