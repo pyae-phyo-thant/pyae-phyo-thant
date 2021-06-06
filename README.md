@@ -19,7 +19,6 @@
 #### Frameworks I have used
 
 ![LARAVEL](https://img.shields.io/badge/-laravel-000000?style=flat&logo=laravel)
-![NODE](https://img.shields.io/badge/-NODE-000000?style=flat&logo=Node.js)
 ![FLUTTER](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter)
 ![Material-ui](https://img.shields.io/badge/-materialUi-000000?style=flat&logo=material-ui)
 ![Material-ui](https://img.shields.io/badge/-TailwindCss-000000?style=flat&logo=tailwind-css)
