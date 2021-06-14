@@ -27,10 +27,6 @@
 ![FLUTTER](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter)
 ![Material-ui](https://img.shields.io/badge/-materialUi-000000?style=flat&logo=material-ui)
 
-#### Library I have used
-
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
-
 ##### Some of the technologies I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
