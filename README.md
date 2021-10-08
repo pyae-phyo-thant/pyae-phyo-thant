@@ -1,6 +1,6 @@
 ##### Hi there 🧑‍💻, I'm Pyae Phyo Thant:
 
--   :mortar_board: Current working at Home as a Freelancer
+-   :mortar_board: Current working at Home as a developer
 -   :ringed_planet: Looking forward to contribute organization project
 -   :speech_balloon: Ask me about web development, ubuntu commands, full-stack!
 -   :mailbox: You can reach me with the links below
