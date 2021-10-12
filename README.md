@@ -40,10 +40,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pyae-phyo-thant&show_icons=true&theme=radical&line_height=21">
 </p>
 
-##### Some of my open source projects( welphat.com isn't on production and API that I used on covid19mm aren't live)
-
-[![project-management](<https://img.shields.io/badge/-Project Management-444444?style=flat>)](https://my-react-app-6658d.firebaseapp.com/)
-[![covid19](<https://img.shields.io/badge/-COVID19 App-444444?style=flat>)](https://covid-19-b9cb6.firebaseapp.com/)
-
 
 ```
