@@ -15,17 +15,11 @@
 ![css3](https://img.shields.io/badge/-css3-000000?style=flat&logo=css3)
 ![PHP](https://img.shields.io/badge/-php-000000?style=flat&logo=php)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![DART](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart)
 
 #### Frameworks I have used
 
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
-![Nodejs](https://img.shields.io/badge/-node.js-000000?style=flat&logo=node.js)
-![Mongo](https://img.shields.io/badge/-mongo-000000?style=flat&logo=mongodb)
 ![LARAVEL](https://img.shields.io/badge/-laravel-000000?style=flat&logo=laravel)
-![FLUTTER](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter)
-![Material-ui](https://img.shields.io/badge/-materialUi-000000?style=flat&logo=material-ui)
 
 ##### Some of the technologies I have worked with
 
